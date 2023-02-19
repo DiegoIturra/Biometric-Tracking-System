@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J5DrM5d0YiOSZVspmuvFmoTR1nHNZGDNuIXQXRiWFB4oi/kniFkbuYe8Ahy0PsaBiRCxi0fbNauK7smioRlfKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diego\\Desktop\\proyecto_biometrico\\BiometricTrackingSystem\\BiometricTrackingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.28\\microsoft.windows.sdk.net.ref.10.0.17763.28.nupkg.sha512"
+  ],
+  "logs": []
+}
